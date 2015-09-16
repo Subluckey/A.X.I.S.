@@ -56,7 +56,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 171384}
   m_Enabled: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
@@ -74,7 +74,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: {x: 3, y: 3}
   direction: {x: 1, y: 0}
-  isEnermy: 0
 --- !u!114 &11462540
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -128,10 +127,6 @@ Prefab:
     - target: {fileID: 0}
       propertyPath: speed.y
       value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 0}
-      propertyPath: m_IsTrigger
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
