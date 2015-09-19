@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UserInputScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UserInputScript.cs">
     <Files>
-      <File FileName="Assets\Scripts\UserInputScript.cs" Line="54" Column="4" />
-      <File FileName="Assets\Scripts\StrokePartical.cs" Line="27" Column="3" />
+      <File FileName="Assets/Scripts/UserInputScript.cs" Line="17" Column="3" />
+      <File FileName="Assets/Scripts/SimpleMoveScript.cs" Line="8" Column="64" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
